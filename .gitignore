@@ -1,0 +1,13 @@
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Environment
+.env
+
+# Uploads (don’t commit user files)
+uploads/
+
+# Prisma
+prisma/migrations/*-shadow-database*
